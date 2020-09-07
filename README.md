@@ -10,6 +10,9 @@ Control particle-based fluid by your sound.
 P.S. If microphone cannot be detected. Run `python main.py -l` to find the microphone ID.
 Then run `python main.py -d <ID>` where `<ID>` is the microphone ID.
 
+P.P.S. If you're using macOS (any version after Mojava), you should run it in Terminal.
+Don’t do it in VSCode’s built-in terminal because it won’t ask for microphone permission.
+
 ## Credit
 
 * The spectrum visualization code is from [`sounddevice`’s example](https://python-sounddevice.readthedocs.io/en/0.4.0/examples.html#real-time-text-mode-spectrogram).
