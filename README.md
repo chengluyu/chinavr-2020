@@ -2,6 +2,14 @@
 
 Control particle-based fluid by your sound.
 
+## Usage
+
+1. Install packages: `pip install -r requirements.txt`.
+2. Run the program: `python main.py`.
+
+P.S. If microphone cannot be detected. Run `python main.py -l` to find the microphone ID.
+Then run `python main.py -d <ID>` where `<ID>` is the microphone ID.
+
 ## Credit
 
 * The spectrum visualization code is from [`sounddevice`’s example](https://python-sounddevice.readthedocs.io/en/0.4.0/examples.html#real-time-text-mode-spectrogram).
