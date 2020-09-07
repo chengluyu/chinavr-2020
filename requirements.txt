@@ -1,0 +1,16 @@
+astor==0.8.1
+autopep8==1.5.4
+cffi==1.14.2
+colorama==0.4.3
+dill==0.3.2
+numpy==1.19.1
+pybind11==2.5.0
+pycodestyle==2.6.0
+pycparser==2.20
+sounddevice==0.4.0
+sourceinspect==0.0.3
+taichi==0.6.32
+taichi-glsl==0.0.9
+taichi-three==0.0.2
+toml==0.10.1
+Wave==0.0.2
